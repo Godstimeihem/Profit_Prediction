@@ -48,8 +48,4 @@ To use the deployed prediction system, simply visit [Profit Prediction App](http
 
 - IHEMEGBULEM GODSTIME(https://github.com/Godstimeihem): Project Lead and Developer
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-```
